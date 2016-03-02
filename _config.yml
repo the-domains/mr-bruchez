@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.6810036
+  lightness: 0.5053763
+  brandStrength: 0.5035842
+  brandColors:
+    - '#64A2BE'
+    - '#ABE04B'
+    - '#031604'
+    - '#425C42'
+    - '#A2D692'
+  rhythmicContrast: 0.6630824
+typography_spectrum: 0.0734767
+name: Mr.Bruchez
