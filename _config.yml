@@ -1,14 +1,28 @@
-layout_spectrum: 1
+name: Mr.Bruchez
+favicon: null
+layout_spectrum: 0.25408
+typography_spectrum: 0.0734767
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.6810036
-  lightness: 0.5053763
-  brandStrength: 0.5035842
   brandColors:
     - '#64A2BE'
     - '#ABE04B'
     - '#031604'
     - '#425C42'
     - '#A2D692'
+  brandStrength: 0.5035842
+  lightness: 0.5053763
+  saturation: 0.6810036
   rhythmicContrast: 0.6630824
-typography_spectrum: 0.0734767
-name: Mr.Bruchez
+purpose: []
